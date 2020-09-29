@@ -1,0 +1,6 @@
+include ~/.nano/nanorc/*.nanorc
+
+set tabsize 4
+set autoindent
+set constantshow
+set smooth
